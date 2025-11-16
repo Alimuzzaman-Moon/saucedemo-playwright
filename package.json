@@ -1,0 +1,11 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "Playwright test: login, add to cart, verify, logout (student-level)",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.0"
+  }
+}
