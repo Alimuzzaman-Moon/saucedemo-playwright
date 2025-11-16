@@ -7,10 +7,6 @@ This small project contains one Playwright test written in JavaScript. It's mean
 - Verify the product name in the cart
 - Log out
 
-Why this is student-friendly
-- Lots of comments and console logs so you can follow the test steps.
-- The test runs with a visible browser and deliberate pauses so you can watch each action.
-
 Quick start (Windows PowerShell)
 
 1. Install dependencies and Playwright browsers:
